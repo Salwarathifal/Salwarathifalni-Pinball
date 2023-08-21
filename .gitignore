@@ -1,0 +1,6 @@
+pin ball/Library/*
+pin ball/Logs/*
+pin ball/Temp/*
+
+.vsconnvig
+*.sln
